@@ -1,0 +1,22 @@
+{
+  "productName": "RD Reco",
+  "welcomeMessage": "Bem-vindo ao Recomendador de Produtos RD Station. Aqui você pode encontrar uma variedade de produtos da RD Station, cada um projetado para atender às necessidades específicas do seu negócio. De CRM a Marketing, de Conversas a Inteligência Artificial, temos uma solução para ajudar você a alcançar seus objetivos. Use o formulário abaixo para selecionar suas preferências e funcionalidades desejadas e receba recomendações personalizadas de produtos que melhor atendam às suas necessidades.",
+  "preferences": "Preferências",
+  "noPreferencesFound": "Nenhuma preferência encontrada",
+  "features": "Funcionalidades",
+  "noFeaturesFound": "Nenhuma funcionalidade encontrada",
+  "recommendationType": "Tipo de Recomendação",
+  "singleProduct": "Produto Único",
+  "multipleProducts": "Múltiplos Produtos",
+  "getRecommendation": "Obter recomendação",
+  "fillAllFields": "Preencha todos os campos!",
+  "recommendationsList": "Lista de Recomendações",
+  "goBack": "Voltar",
+  "errorFetchingProductsList": "Ocorreu um erro ao buscar a lista de produtos",
+  "errorFetchingRecommendations": "Ocorreu um erro ao obter as recomendações",
+  "successMessage_zero": "Ops! Não encontramos recomendações para você.",
+  "successMessage_one": "Oba! Temos 1 recomendação para você!",
+  "successMessage_other": "Oba! Temos {{count}} recomendações para você!",
+  "errorGettingProduct": "Ocorreu um erro ao obter o produto",
+  "productNotFound": "Produto não encontrado"
+}
