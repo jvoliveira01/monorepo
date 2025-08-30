@@ -103,10 +103,10 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Anotações de João Vitor Oliveira - 30/08/2025
 
-Utilizada biblioteca de ícones - React Icons
-Implementados testes para os componentes compartilhados e serviços
-Definição de tema de cores e fonte de texto
-Uso de internacionalização, preparada para outros idiomas.
+- Utilizada biblioteca de ícones - React Icons
+- Implementados testes para os componentes compartilhados e serviços
+- Definição de tema de cores e fonte de texto
+- Uso de internacionalização, preparada para outros idiomas.
 
-Observação: arquivo .env foi enviado ao GitHub para fins de testes, apesar de isso ser incorreto.
+- Observação: arquivo .env foi enviado ao GitHub para fins de testes, apesar de isso ser incorreto.
 
